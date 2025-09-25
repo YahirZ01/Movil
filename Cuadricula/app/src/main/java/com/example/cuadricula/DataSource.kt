@@ -1,6 +1,8 @@
 package com.example.cuadricula
 
 import android.adservices.topics.Topic
+import android.os.ext.SdkExtensions
+import androidx.annotation.RequiresExtension
 
 object DataSource {
     val topics = listOf(
