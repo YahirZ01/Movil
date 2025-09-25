@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Cuadrícula"
+rootProject.name = "Cuadricula"
 include(":app")
- 
